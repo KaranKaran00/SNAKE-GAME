@@ -5,8 +5,5 @@
 }
 html,body{
     height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #0f0f0f;
+    width: 100%;
 }
