@@ -7,3 +7,16 @@ html,body{
     height: 100%;
     width: 100%;
 }
+
+:root{
+    /* Background colors */
+    --bg-primary-color: #0c0c0c;
+
+    /* Text Colors */
+    --text-primary-color: #f0f0f0;
+}
+
+html{
+    background-color: var(--bg-primary-color);
+    color: var(--text-primary-color);
+}
