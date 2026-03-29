@@ -14,6 +14,15 @@ html,body{
 
     /* Text Colors */
     --text-primary-color: #f0f0f0;
+
+    /* spacing variables */
+    --space-xs:4px;    
+    --space-sm:8px;
+    --space-md:16px;
+    --space-lg:24px;
+    --space-xl:32px;
+    --space-2xl:40px;
+    --space-3xl:48px;
 }
 
 html{
@@ -27,7 +36,7 @@ main,section{
     height: 100%;
 }
 section{
-    padding:40px;
+    padding:var(--space-2xl);
 }
 
 section .infos{
