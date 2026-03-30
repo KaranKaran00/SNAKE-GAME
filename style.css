@@ -23,6 +23,9 @@ html,body{
     --space-xl:32px;
     --space-2xl:40px;
     --space-3xl:48px;
+
+    /* Border colors */
+    --border-primary-color:#333333;
 }
 
 html{
