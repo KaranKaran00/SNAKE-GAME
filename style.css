@@ -55,3 +55,7 @@ section .infos{
     display: flex;
     justify-content: space-between;
 }
+.info{
+    padding: var(--space-sm) var(--space-md);
+    
+}
