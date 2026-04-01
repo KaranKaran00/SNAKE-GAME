@@ -66,4 +66,5 @@ section .infos{
 }
 .board{
     border:1px solid var(--border-primary-color);
+    flex-grow: 1;
 }
