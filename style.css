@@ -69,7 +69,7 @@ section .infos{
     border:1px solid var(--border-primary-color);
     flex-grow: 1;
     display: grid;
-
+    grid-template-columns: repeat(auto-fill,30px);
 }
 .block{
     width: 30px;
